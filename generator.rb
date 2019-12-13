@@ -9,11 +9,8 @@ headers = {
 
 claims = {
     'iss' => 'Your apple team id',
-    
-    # let's say that this two values are constants
     'iat' => 1576252452,
     'exp' => 1586256052,
-
     'aud' => 'https://appleid.apple.com',
     'sub' => 'your bundle identifier or Service ID',
 }
