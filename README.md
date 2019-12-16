@@ -16,3 +16,5 @@ Script usage:
 > a bundle identifer (for clients) or service id (web platforms: https://developer.apple.com/account/resources/identifiers/list/serviceId)
 
 > your apple team id - (You can find at membership tab)
+
+You can check https://medium.com/@erdikank/how-to-verify-sign-in-with-apple-token-2601c72a3f4d for full tutorial.
